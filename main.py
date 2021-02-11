@@ -7,4 +7,4 @@ def random_string(length=32):
 for i in range(int(input('How many codes? '))):
     codes = random_string(24)
     print('Code: ' + 'https://discord.gift/ + codes)
-input()
+input('Please click enter too continue.')
